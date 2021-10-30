@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @javiervaleriano
 - 👀 I’m interested in improving my skills every time. Besides, I like video games, training (calisthenics) and sports.
-- 🌱 I know HTML, CSS, JavaScript, ReactJS and Angular. In addition, I know PostgreSQL.
+- 🌱 I know HTML, CSS, JavaScript, ReactJS and Angular. In addition, I know PL/SQL and SQL.
 - 💞️ I’m looking to collaborate on projects in which I can improve everything I know and with experience learn new things.
 - 📫 How to reach me: <a href="https://www.instagram.com/javiervalerianoz/" target="_blank">Instagram</a>, <a href="https://www.facebook.com/JavierValeriano150802/" target="_blank">Facebook</a> and <a href="mailto:jvalerianoz15@gmail.com">email</a>.
 
