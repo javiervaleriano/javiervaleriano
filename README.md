@@ -4,7 +4,7 @@
 - 💞️ I am looking to develop and collaborate in projects where I can improve everything I know and with experience learn new things.
 - 📫 How to reach me: <a href="https://www.instagram.com/javiervalerianoz/" target="_blank">Instagram</a>, <a href="https://www.facebook.com/JavierValeriano150802/" target="_blank">Facebook</a> and <a href="mailto:jvalerianoz15@gmail.com">email</a>.
 
-Feel free to talk to me, I will be happy to answer and help you. :)
+Feel free to talk to me, I will be happy to answer and/or help you. :)
 
 <!---
 javiervaleriano/javiervaleriano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
